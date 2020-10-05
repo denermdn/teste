@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1601839989 source:c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\hashe.cpp
+	<iostream>
+	"No.h"
+	"math.h"
+
+1601838839 c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\hashe.h
+	"No.h"
+
+1601652513 c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\no.h
+
+1601849460 source:c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\main.cpp
+	<iostream>
+	"hashe.h"
+	<stdlib.h>
+	<time.h>
+	"No.h"
+
+1601656140 source:c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\list.cpp
+	"list.h"
+	<iostream>
+	"No.h"
+
+1601652449 c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\list.h
+	"No.h"
+
+1601657031 source:c:\users\dener\music\codeblocks\re\tabela-hash-parte-1-denermdn(1)\no.cpp
+	<iostream>
+	"No.h"
+
